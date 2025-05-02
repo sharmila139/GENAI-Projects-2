@@ -1,6 +1,7 @@
 import requests
 import json
 import gradio as gr
+import pandas as pd
 
 url="http://localhost:11434/api/generate"
 
